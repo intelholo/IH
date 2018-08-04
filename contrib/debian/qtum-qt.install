@@ -1,0 +1,6 @@
+usr/local/bin/IH-qt usr/bin
+share/pixmaps/Predix32.xpm usr/share/pixmaps
+share/pixmaps/Predix16.xpm usr/share/pixmaps
+share/pixmaps/Predix128.png usr/share/pixmaps
+debian/IH-qt.desktop usr/share/applications
+debian/IH-qt.protocol usr/share/kde4/services/
